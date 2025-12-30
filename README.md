@@ -15,7 +15,7 @@ This project consists of two parts: a **React** front-end and a **Spring Boot** 
 1. **Clone the Repository**
 
    Clone the repository from GitHub and move into the project directory:
-  - git clone https://github.com/ChakraHs/voiture-react.git
+  - git clone https://github.com/ermougrabie/ensias-fullstack-car-management
   - cd voiture-react
 
 2. **Build Docker Image**
