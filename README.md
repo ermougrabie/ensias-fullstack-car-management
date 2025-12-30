@@ -16,8 +16,8 @@ This project consists of two parts: a **React** front-end and a **Spring Boot** 
 
    Clone the repository from GitHub and move into the project directory:
   - git clone https://github.com/ermougrabie/ensias-fullstack-car-management
-  - cd voiture-react
-
+  - cd ensias-fullstack-car-management
+    
 2. **Build Docker Image**
 
 Build the Docker image for the front-end:
